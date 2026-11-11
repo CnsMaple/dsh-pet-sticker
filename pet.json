@@ -1,7 +1,7 @@
 {
-  "id": "dsh-chan-sticker-pet",
+  "id": "dsh-chan-sticker-pet-drag",
   "kind": "dsh",
-  "displayName": "Maid DeepSeek Sticker",
+  "displayName": "Maid DeepSeek Sticker (Drag Fix)",
   "description": "157 个贴纸动作与透明待机动画。",
   "configPath": "config.jsonc",
   "uriPath": "webm",
